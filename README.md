@@ -1,2 +1,2 @@
-## NIMI NAIR
-# About Me
+# NIMI NAIR
+### About Me
